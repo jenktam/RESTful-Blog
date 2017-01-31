@@ -1,0 +1,17 @@
+{
+  "name": "restful_blog_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "\u001f\u001f"
+  },
+  "author": "Jen Tam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.0"
+  }
+}
